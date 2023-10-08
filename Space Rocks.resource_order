@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"アニメーションカーブ","order":12,"path":"folders/アニメーションカーブ.yy",},
+    {"name":"オブジェクト","order":9,"path":"folders/オブジェクト.yy",},
+    {"name":"サウンド","order":3,"path":"folders/サウンド.yy",},
+    {"name":"シーケンス","order":11,"path":"folders/シーケンス.yy",},
+    {"name":"シェーダー","order":6,"path":"folders/シェーダー.yy",},
+    {"name":"スクリプト","order":5,"path":"folders/スクリプト.yy",},
+    {"name":"スプライト","order":1,"path":"folders/スプライト.yy",},
+    {"name":"タイムライン","order":8,"path":"folders/タイムライン.yy",},
+    {"name":"タイルセット","order":2,"path":"folders/タイルセット.yy",},
+    {"name":"パス","order":4,"path":"folders/パス.yy",},
+    {"name":"フォント","order":7,"path":"folders/フォント.yy",},
+    {"name":"メモ","order":13,"path":"folders/メモ.yy",},
+    {"name":"ルーム","order":10,"path":"folders/ルーム.yy",},
+    {"name":"拡張機能","order":14,"path":"folders/拡張機能.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"obj_rock","order":3,"path":"objects/obj_rock/obj_rock.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_game","order":4,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
